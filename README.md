@@ -1,7 +1,9 @@
 # datasciencecoursera
 My Respository for The Data Science Specialization
 
-## Secondary Heading
+----
+
+### Playing with Markdown
 
 * I hope this is good
 * But if it's not
