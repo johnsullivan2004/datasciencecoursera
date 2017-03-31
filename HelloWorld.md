@@ -6,8 +6,6 @@
 3.  Go
 
 >Inset text as trial
+--
 >More inset text
-
-|---a---|---b---|---c---|
-|  As   | Easy  | as Pie|
-|-------|-------|-------|
+--
